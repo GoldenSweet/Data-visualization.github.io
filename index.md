@@ -3,7 +3,7 @@
 
 [CV](CV Jintian Wu.pdf)
 
-<img src="https://user-images.githubusercontent.com/90234175/144794660-f612369a-f706-43c8-9ee9-a609720d345e.jpeg" width="200" height="220" />
+<img src="https://user-images.githubusercontent.com/90234175/144794660-f612369a-f706-43c8-9ee9-a609720d345e.jpeg" width="120" height="180" />
 
 ### This website is for Data Visualization class
 #### Here are some work from the class
