@@ -1,4 +1,4 @@
-## Jintian Wu' website
+## **Jintian Wu' website**
 #### I am a graduate student at UT-Dallas, major in Economics.
 
 [CV](CV Jintian Wu.pdf)
@@ -8,14 +8,15 @@
 ### This website is for Data Visualization class
 #### Here are some work from the class
 
-[Assignment 1]
+[Assignment 1]("https://goldensweet.github.io/Assignment1.github.io/")
+
+[My Final Project]("https://goldensweet.github.io/project.github.io/")
+
 
 ## Header 2
 ### Header 3
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 
