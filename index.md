@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/GoldenSweet/Data-visualization.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+[This is me](https://user-images.githubusercontent.com/90234175/144794660-f612369a-f706-43c8-9ee9-a609720d345e.jpeg)
+
 
 # Header 1
 ## Header 2
