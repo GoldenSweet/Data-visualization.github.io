@@ -10,6 +10,8 @@
 
 [Assignment 1](https://goldensweet.github.io/Assignment1.github.io/)
 
+[Assignment 2](https://goldensweet.github.io/As2.github.io/)
+
 [My Final Project](https://goldensweet.github.io/project.github.io/)
 
 
