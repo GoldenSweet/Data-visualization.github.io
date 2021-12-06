@@ -1,31 +1,21 @@
 ## Jintian Wu' website
+#### I am a graduate student at UT-Dallas, major in Economics.
 
-You can use the [editor on GitHub](https://github.com/GoldenSweet/Data-visualization.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[CV](CV Jintian Wu.pdf)
 
-<img src="https://user-images.githubusercontent.com/90234175/144794660-f612369a-f706-43c8-9ee9-a609720d345e.jpeg"width="200" height="220" />
+<img src="https://user-images.githubusercontent.com/90234175/144794660-f612369a-f706-43c8-9ee9-a609720d345e.jpeg" width="200" height="220" />
 
+### This website is for Data Visualization class
+#### Here are some work from the class
 
-# Header 1
+[Assignment 1]
+
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GoldenSweet/Data-visualization.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
