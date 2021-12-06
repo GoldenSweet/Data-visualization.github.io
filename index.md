@@ -8,11 +8,11 @@
 ### This website is for Data Visualization class
 #### Here are some work from the class
 
-[Assignment 1]("https://goldensweet.github.io/Assignment1.github.io/")
+[Assignment 1](https://goldensweet.github.io/Assignment1.github.io/)
 
-[My Final Project]("https://goldensweet.github.io/project.github.io/")
+[My Final Project](https://goldensweet.github.io/project.github.io/)
 
-[ghj]("https://idp.utdallas.edu/idp/profile/SAML2/POST/SSO?execution=e1s1")
+
 
 
 
