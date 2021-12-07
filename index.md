@@ -1,7 +1,10 @@
 ## **Jintian Wu' website**
 #### I am a graduate student at UT-Dallas, major in Economics.
 
-[CV](CV Jintian Wu.pdf) [Me](<img src="https://user-images.githubusercontent.com/90234175/144978978-fc28305e-6374-4908-a385-87da3e2ad758.png" width="120" height="180" />)[My dogs](<img src="https://user-images.githubusercontent.com/90234175/144979104-9f83726c-ee09-495e-8041-d2ba9ff3efe7.png" width="120" height="180" />)
+[CV](CV Jintian Wu.pdf) 
+
+<img src="https://user-images.githubusercontent.com/90234175/144978978-fc28305e-6374-4908-a385-87da3e2ad758.png" width="180" height="180" />
+
 
 ### This website is for Data Visualization class
 #### Here are some work from the class
